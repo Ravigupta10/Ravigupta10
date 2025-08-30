@@ -1,12 +1,6 @@
-## Hi there, I'm Ravi Gupta 👋
+                                ## Hi there, I'm Ravi Gupta 👋
 
-<!--
-**Ravigupta10/Ravigupta10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi there, I'm Ravi 👋  
-
-🎓 B.Tech CSE Student | 💻 Software Developer | 🚀 Tech Enthusiast  
-
----
+🎓 B.Tech CSE Student | 💻 Software Developer | 🚀 Tech Enthusiast 
 
 ## 👨‍💻 About Me  
 - 🔭 I’m currently working on **Java and MERN stack projects**  
@@ -17,7 +11,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Java, C++, JavaScript, SQL, 
+**Languages:** Java, C++, JavaScript, SQL
 **Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind  
 **Backend:** Node.js, Express.js  
 **Database:** MySQL, MongoDB  
@@ -26,16 +20,9 @@
 ---
 
 ## 📌 Projects  
-- 🏦 **Bank Management System (Java + MySQL)** – Account & transaction management system  
+- 🏦 **Bank Management System (Java + MySQL)** – Account & transaction management system
 - 📱 **Instagram Clone (MERN)** – Social media web app with authentication & posts  
-- 📩 **WhatsApp Clone (Node.js + Socket.io)** – Real-time chat application  
-- 🗳️ **  
-
----
-
-## 📈 GitHub Stats  
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)  
+- 📩 **WhatsApp Clone (Node.js + Socket.io)** – Real-time chat application   
 
 ---
 
