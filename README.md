@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack  
 **Languages:** Java, C++, JavaScript, SQL    
-**Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind  
+**Frontend:** React.js, HTML, CSS, Tailwind  
 **Backend:** Node.js, Express.js  
 **Database:** MySQL, MongoDB  
 **Other Tools:** Git, GitHub, VS Code, NetBeans, Postman  
