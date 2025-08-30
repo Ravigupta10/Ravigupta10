@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Java, C++, JavaScript, SQL
+**Languages:** Java, C++, JavaScript, SQL    
 **Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind  
 **Backend:** Node.js, Express.js  
 **Database:** MySQL, MongoDB  
